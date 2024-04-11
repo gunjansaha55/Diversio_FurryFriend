@@ -10,29 +10,21 @@ export const About = () => {
             <div className="hero-content">
               {/* <p>We care to cure your Health</p> */}
 
-              <h1>Why Choose Us? </h1>
+             <h1>Why Choose Us? </h1>
               <p>
-                Expertise: Our team consists of experienced IT professionals who
-                are passionate about staying up-to-date with the latest industry
-                trends.
+              Seek treatment: Search for nearby veterinary clinics or animal shelters through our shelter directory. 
               </p>
               <p>
-                Customization: We understand that every business is unique.
-                Thats why we create solutions that are tailored to your specific
-                needs and goals.
+              Schedule an appointment: Utilize the FurryFriends treatment portal to connect with a veterinarian directly within the app. Personal information for both Luna and Alex is secured with MongoDB encryption.
               </p>
               <p>
-                Customer-Centric Approach: We prioritize your satisfaction and
-                provide top-notch support to address your IT concerns.
+              Donate for care: Contribute to Luna's treatment through our secure donation portal, ensuring her speedy recovery.
               </p>
               <p>
-                Affordability: We offer competitive pricing without compromising
-                on the quality of our services.
+              Report cruelty: Witness animal neglect? Use the complaint section to report the incident and trigger swift action from authorities anonymously.
               </p>
               <p>
-                Reliability: Count on us to be there when you need us. We're
-                committed to ensuring your IT environment is reliable and
-                available 24/7.
+                Reliability: Count on us to be there when you need us. We're available 24/7.
               </p>
               <div className="btn btn-group">
                 <NavLink to="/contact">
